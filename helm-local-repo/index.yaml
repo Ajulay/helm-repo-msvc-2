@@ -3,12 +3,12 @@ entries:
   msvc-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-10-20T14:52:22.9800182+03:00"
+    created: "2020-10-20T14:59:11.4451319+03:00"
     description: A Helm chart for Kubernetes
-    digest: 760415e4a9b792996ae3528b9589c81520b60a7ac5c96ed89f52b3b001ca4d83
+    digest: 7aedbd24e42793c8574c94a0d9111449ee5158b7c3ff5a5aa078ffcfa5422522
     name: msvc-chart
     type: application
     urls:
-    - https://github.com/Ajulay/helm-repo-msvc/msvc-chart-0.1.0.tgz
+    - https://github.com/Ajulay/helm-repo-msvc/blob/master/helm-local-repo/msvc-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-10-20T14:52:22.9791492+03:00"
+generated: "2020-10-20T14:59:11.4441315+03:00"
