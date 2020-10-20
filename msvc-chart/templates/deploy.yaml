@@ -143,10 +143,3 @@ spec:
           ports:
             - containerPort: 8080
               protocol: TCP
-{{/*          resources:*/}}
-{{/*            limits:*/}}
-{{/*              memory: "256Mi"*/}}
-{{/*              cpu: "200m"*/}}
-{{/*            requests:*/}}
-{{/*              memory: "128Mi"*/}}
-{{/*              cpu: "50m"*/}}
